@@ -1,0 +1,5 @@
+com\ice\search\service\impl\SearchItemServiceImpl.class
+com\ice\search\dao\SearchDao.class
+com\ice\search\mapper\ItemMapper.class
+com\ice\search\service\impl\SearchServiceImpl.class
+com\ice\search\message\MyMessageListener.class

@@ -1,0 +1,5 @@
+com\ice\controller\ItemController.class
+com\ice\controller\PageController.class
+com\ice\controller\ItemCatController.class
+com\ice\controller\ContentCatController.class
+com\ice\controller\ContentController.class
